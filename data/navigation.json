@@ -1,5 +1,5 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/images/hero/logo.png",
   "items": [
     {
       "link": "/",
@@ -7,15 +7,15 @@
     },
     {
       "link": "/features/",
-      "text": "Features"
+      "text": "Sobre nós"
     },
     {
       "link": "/pricing/",
-      "text": "Pricing"
+      "text": "Eventos"
     },
     {
       "link": "/about/",
-      "text": "About"
+      "text": "Cardápio"
     },
     {
       "link": "/blog/",
@@ -28,6 +28,6 @@
   ],
   "btn": {
     "link": "/signup/",
-    "text": "Get Started"
+    "text": "Contato"
   }
 }

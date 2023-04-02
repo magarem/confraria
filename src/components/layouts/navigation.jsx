@@ -31,7 +31,7 @@ export default function Navigation({ pageUrl }) {
         >
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              <img src={navigation.logo} alt="Nav-Logo" />
+              <img src={navigation.logo} alt="Nav-Logo" width="110"/>
             </a>
             <button
               className="navbar-toggler"

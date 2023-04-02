@@ -1,7 +1,7 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/images/hero/logo.png",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Magaweb. Todos os direitos reservados.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -26,7 +26,7 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "Páginas principais",
       "links": [
         {
           "link": "/",
@@ -34,20 +34,20 @@
         },
         {
           "link": "/features",
-          "text": "Features"
+          "text": "Quem somos"
         },
         {
           "link": "/pricing",
-          "text": "Price"
+          "text": "Eventos"
         },
         {
           "link": "/about",
-          "text": "About"
+          "text": "Pratos"
         }
       ]
     },
     {
-      "title": "Community",
+      "title": "Comunidade",
       "links": [
         {
           "link": "/blog",
@@ -60,15 +60,15 @@
       ]
     },
     {
-      "title": "Company",
+      "title": "Confraria",
       "links": [
         {
           "link": "/contact",
-          "text": "Contact"
+          "text": "Contato"
         },
         {
           "link": "/privacy",
-          "text": "Privacy Policy"
+          "text": "Privacidade"
         }
       ]
     }

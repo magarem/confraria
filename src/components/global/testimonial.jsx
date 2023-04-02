@@ -26,23 +26,27 @@ export default function GlobalTestimonial({ block, dataBinding }) {
               key={i}
               data-cms-bind={dataBinding ? `${dataBinding}.slider[${i}]` : null}
             >
-              <div className="testimonial-item">
-                <div className="testimonial-item-person">
-                  <div className="thumb">
-                    <img
-                      src={slide.image}
-                      alt="logo"
-                      className={slide.image_alt}
-                      loading="lazy"
-                    />
-                  </div>
-                  <div className="content">
-                    <h3>{slide.author}</h3>
-                    <p>{slide.designation}</p>
-                  </div>
-                </div>
-                <p>{slide.message}</p>
-              </div>
+            <div key={slide} className="card" >
+            <img className="card-img-top" src={slide.image} alt="Card image cap"/>
+            <div className="card-body">
+              <h5 className="card-title">{slide.author}</h5>
+              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" className="btn btn-primary">Mais informações</a>
+            </div>
+          </div>
+
+           
+
+
+
+
+
+
+
+
+
+
+             
             </div>
           ))}
         </div>
