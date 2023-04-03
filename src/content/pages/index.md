@@ -61,7 +61,7 @@ content_blocks:
     title: Cardápio
     title_suffix: 
     description: >-
-      Acompanhe nossa programação
+      100% veganos & Karma free
     slider:
       - image: /images/pratos/prato1.jpeg
         image_alt: Profile photo of Pete Fish
@@ -95,7 +95,7 @@ content_blocks:
       Email
       Venha nos visitar!
     button:
-      link: /signup
+      link: /contact
       text: Contato
     reversed: false
   - _bookshop_name: global/imageruler
