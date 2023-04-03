@@ -26,10 +26,6 @@ export default function GlobalTestimonial({ block, dataBinding }) {
               key={i}
               data-cms-bind={dataBinding ? `${dataBinding}.slider[${i}]` : null}
             >
-
-
-
-
             <div key={slide} className="card" >
             <img className="card-img-top" style={{width: '355px', height: '300px', objectFit: 'cover'}} src={slide.image} alt="Card image cap"/>
             <div className="card-body">

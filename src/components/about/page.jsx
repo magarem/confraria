@@ -16,9 +16,9 @@ export default function AboutHero({ block, dataBinding }) {
   };
 
   return (
-    <section className="about-hero-two mb-10" data-cms-bind={dataBinding}>
+    <section className="about-hero-two"  data-cms-bind={dataBinding}>
       <div className="container">
-        <div className="row">
+        <div className="row" >
           <div className="col-xl-5 col-lg-10 mx-auto">
             <div className="about-hero-two-content position-relative">
               <h2>{block.title}</h2>

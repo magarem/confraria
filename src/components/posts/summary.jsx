@@ -25,7 +25,7 @@ export default function PostSummary({ post }) {
               ))}
             </div>
             <div className="blog-post-title">
-              <a href={`/blog/${slug}`}>{title}</a>
+              <a href={`/blog/${slug}`}>a{title}</a>
             </div>
           </div>
         </article>

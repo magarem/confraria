@@ -10,36 +10,36 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Vamos conversar.
+    description: Pensando em realizar ou apoiar algum evento vegano?
   - _bookshop_name: contact/form
     address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      heading: Endereço
+      address: Fazenda Nova Gokula
     phone:
-      heading: Phone
+      heading: Fone
       cell: (123) 456 - 7895
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: contato@example.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Diga olá!
       fullname:
-        heading: Full Name
-        placeholder: Enter First Name
+        heading: Nome
+        placeholder: Primeiro nome
       phone_number:
-        heading: Phone number
-        placeholder: Enter Phone Number
+        heading: Fone
+        placeholder: Entre com seu telefone
       email:
-        heading: Email Address
-        placeholder: Enter Email Address
+        heading: E-mail
+        placeholder: Entre com seu e-mail
       message:
-        heading: Your Messages
-        placeholder: Enter your message
+        heading: Mensagem
+        placeholder: Entre com sua mensagem
       submit_button:
-        text: Send message
+        text: Enviar
 ---

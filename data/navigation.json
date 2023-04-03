@@ -6,28 +6,20 @@
       "text": "Home"
     },
     {
-      "link": "/features/",
+      "link": "/sobre/",
       "text": "Sobre nós"
     },
     {
-      "link": "/pricing/",
+      "link": "/eventos/",
       "text": "Eventos"
     },
     {
-      "link": "/about/",
+      "link": "/pratos/",
       "text": "Cardápio"
-    },
-    {
-      "link": "/blog/",
-      "text": "Blog"
-    },
-    {
-      "link": "/contact/",
-      "text": "Contact"
     }
   ],
   "btn": {
-    "link": "/signup/",
+    "link": "/contact/",
     "text": "Contato"
   }
 }

@@ -33,42 +33,26 @@
           "text": "Home"
         },
         {
-          "link": "/features",
-          "text": "Quem somos"
+          "link": "/sobre",
+          "text": "Sobre nós"
         },
         {
-          "link": "/pricing",
+          "link": "/eventos",
           "text": "Eventos"
         },
         {
-          "link": "/about",
+          "link": "/pratos",
           "text": "Pratos"
         }
       ]
     },
-    {
-      "title": "Comunidade",
-      "links": [
-        {
-          "link": "/blog",
-          "text": "Blog"
-        },
-        {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
-        }
-      ]
-    },
+    
     {
       "title": "Confraria",
       "links": [
         {
           "link": "/contact",
           "text": "Contato"
-        },
-        {
-          "link": "/privacy",
-          "text": "Privacidade"
         }
       ]
     }
