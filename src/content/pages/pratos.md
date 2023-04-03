@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: about/hero
     title: Cardápio
-    description: Igrdientes 100% veganos livre de karma e tudo feito com muito amor para você
+    description: Ingredientes 100% veganos livre de karma e tudo feito com muito amor para você!
     hero_images:
       - image: /images/pratos/prato1.jpeg
         image_alt: People working on laptops
