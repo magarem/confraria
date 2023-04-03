@@ -1,13 +1,13 @@
 {
-	"site_name": "Sendit",
-	"site_title": "Sendit Template Astro",
-	"description": "A polished, marketing website template built with Astro.",
+	"site_name": "Confraria Vegana",
+	"site_title": "Confraria Vegana",
+	"description": "Restaurante Vegano",
 	"author": "",
 	"author_email": "",
 	"images": [
 		{
-			"image": "/images/_screenshot.png",
-			"description": "Screenshot for Sendit Template",
+			"image": "",
+			"description": "",
 			"height": 0,
 			"width": 0
 		}
